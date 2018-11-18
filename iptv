@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0,TR:BEINSPORTS HABER HD
+http://vip.goldtv.org:8000/inan40/40inan/10083
+#EXTINF:0,TR:BEINSPORTS 1 SD 546p
+http://vip.goldtv.org:8000/inan40/40inan/18422
+#EXTINF:0,TR:BEINSPORTS 1 HD 720p
+http://vip.goldtv.org:8000/inan40/40inan/636
+#EXTINF:0,TR:BEINSPORTS 1 HD 1080p
+http://vip.goldtv.org:8000/inan40/40inan/9373
+#EXTINF:0,TR:BEINSPORTS 4 K UHD
+http://vip.goldtv.org:8000/inan40/40inan/12768
+#EXTINF:0,TR:BEINSPORTS 2 HD 720p
+http://vip.goldtv.org:8000/inan40/40inan/10503
+#EXTINF:0,TR:BEINSPORTS 2 HD 1080p
+http://vip.goldtv.org:8000/inan40/40inan/9374
+#EXTINF:0,TR:BEINSPORTS 3 HD 720p
+http://vip.goldtv.org:8000/inan40/40inan/10502
+#EXTINF:0,TR:BEINSPORTS 3 HD 1080p
+http://vip.goldtv.org:8000/inan40/40inan/9375
+#EXTINF:0,TR:BEINSPORTS 4 HD 720p
+http://vip.goldtv.org:8000/inan40/40inan/10501
+#EXTINF:0,TR:BEINSPORTS 4 HD 1080p
+http://vip.goldtv.org:8000/inan40/40inan/9376
+#EXTINF:0,TR:BEINSPORTS MAX 1 HD 720p
+http://vip.goldtv.org:8000/inan40/40inan/10500
+#EXTINF:0,TR:BEINSPORTS MAX 1 HD 1080p
+http://vip.goldtv.org:8000/inan40/40inan/9377
+#EXTINF:0,TR:BEINSPORTS MAX 2 HD 720p
+http://vip.goldtv.org:8000/inan40/40inan/10499
+#EXTINF:0,TR:BEINSPORTS MAX 2 HD 1080p
+http://vip.goldtv.org:8000/inan40/40inan/9378
+#EXTINF:0,TR:TIVIBU SPOR 1 HD
+http://vip.goldtv.org:8000/inan40/40inan/18454
+#EXTINF:0,TR:TIVIBU SPOR 2 HD
+http://vip.goldtv.org:8000/inan40/40inan/3698
+#EXTINF:0,TR:TIVIBU SPOR 3 HD
+http://vip.goldtv.org:8000/inan40/40inan/3694
+#EXTINF:0,TR:TIVIBU SPOR 4 HD
+http://vip.goldtv.org:8000/inan40/40inan/3695
+#EXTINF:0,TR:Spor Smart HD
+http://vip.goldtv.org:8000/inan40/40inan/2833
+#EXTINF:0,TR:S SPORT HD
+http://vip.goldtv.org:8000/inan40/40inan/2834
+#EXTINF:0,TR:EUROSPORT
+http://vip.goldtv.org:8000/inan40/40inan/4297
+#EXTINF:0,TR:EUROSPORT 2
+http://vip.goldtv.org:8000/inan40/40inan/4298
+#EXTINF:0,TR:TRT SPOR SD
+http://vip.goldtv.org:8000/inan40/40inan/584
+#EXTINF:0,TR:TRT SPOR HD
+http://vip.goldtv.org:8000/inan40/40inan/599
+#EXTINF:0,TR:A SPOR SD
+http://vip.goldtv.org:8000/inan40/40inan/10088
+#EXTINF:0,TR:A SPOR HD
+http://vip.goldtv.org:8000/inan40/40ina
