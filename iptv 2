@@ -1,0 +1,92 @@
+#EXTINF:-1,1 FUTBOLTÜRK (720X480)
+http://win4.yayin.com.tr/tvspor/tvspor/playlist.m3u8
+
+#EXTINF:-1,ATV (1920X1080)
+http://31.177.62.134:8003/play/s15
+
+#EXTINF:-1,A SPOR (1920X1080)
+http://31.177.62.134:8003/play/s17
+
+#EXTINF:-1,A HABER (1920X1080)
+http://31.177.62.134:8003/play/s16
+
+#EXTINF:-1,Star 1280×720
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1,NTV 1280×720
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1,Sinema Premier HD
+http://sunatv.co:80/live/1234567890/1234567890/1851.ts
+
+#EXTINF:-1,Sinema Turk HD
+http://sunatv.co:80/live/1234567890/1234567890/1855.ts
+
+#EXTINF:-1,KanalD 720×404
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1,TEVE 2 720×576
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+
+#EXTINF:-1,TRT1 1280X720
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+
+#EXTINF:-1,TRT Spor 1280×720
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8
+
+#EXTINF:-1,TRT Belgesel 1280×720
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
+
+#EXTINF:-1,TRT Haber 1280×720
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+
+#EXTINF:-1,TRT Çocuk 1280×720
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+#EXTINF:-1,SÝNEMA TV 1920×1080
+http://test-planet-live.ercdn.net/sony/sony_1080p.m3u8
+
+#EXTINF:-1,FOX (720×576)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/53453.ts
+
+#EXTINF:-1,TLC 1280×720
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1,Ýdman TV 1 1280×720
+https://streaming.kovalchuk.me/idman/index.m3u8
+
+#EXTINF:-1,Ýdman TV 2 1280×720
+http://94.20.74.243:4022/udp/239.254.10.8:1234
+
+#EXTINF:-1,UçanKuþ (1280×720)
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+
+#EXTINF:-1,Beyaz TV (1280×720)
+http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8
+
+#EXTINF:-1,24 TV (1280×720)
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+
+#EXTINF:-1,ShowMax (1280×720)
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
+
+#EXTINF:-1,Tivibu Spor (704×396)
+http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,Kral PoP 1280×720
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+#EXTINF:-1,Kral TV 1280×720
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+#EXTINF:-1,TV8 HD
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/53450.ts
+
+#EXTINF:-1,Show TV HD
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/53449.ts
+
+#EXTINF:-1,Power 1920X1080
+http://powertv.listenpowerapp.com/powertv/abr/powertv/720/chunks.m3u8
+
+#EXTINF:-1,Powertürk 1920X1080
+http://powerturktv.listenpowerapp.com/powerturktv/abr/powerturktv/720/chunks.m3u8 
